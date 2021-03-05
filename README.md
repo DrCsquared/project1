@@ -26,7 +26,7 @@ Employee Features.
 
 **To-do list:**
 * Be able to create Employee Accounts.
-* 
+* Clean up the UI/UX.
 
 **Getting Started**
 * Download Eclipse, PostgreSQL, pgAdmin, and Apache-Tomcat. 
